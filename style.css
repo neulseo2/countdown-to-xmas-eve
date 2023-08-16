@@ -1,0 +1,27 @@
+* {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+  background-color: burlywood;
+  margin-top: 10%;
+  display: flex;
+  justify-content: center;
+}
+
+.main {
+  background-color: blanchedalmond;
+  width: 85%;
+  height: 45rem;
+  border-radius: 30px;
+}
+
+#title {
+  color: rgb(135, 85, 21);
+  text-align: center;
+}
+
+#subtitle {
+  color:rgb(135, 98, 49);
+  text-align: center;
+}
